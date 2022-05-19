@@ -1,0 +1,34 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+ 
+<head> 
+ <meta charset="UTF-8">     <meta http-equiv="X-UA-Compatible" content="IE=edge">  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+ <title>SWEJAL</title> 
+</head> 
+<body> 
+<center><h1 style="color:aqua"><u><em>INVITATION 
+LETTER<em></u></em></h1></center></u> 
+<center><h2 style="color:red"><u><I>FOR WEB DEVELOPMENT LAB 
+INAUGURATION</I></I></h2></center></u> 
+<h1 style="color:antiquewhite">FROM</h1> 
+<h2>s b jain collage</h2> 
+<br> 
+<body style="Background-color: grey"</body> 
+<marquee scollamount=40"direction="right"onmouseover="this.stop()">GRAND 
+OPENING</marquee><br> 
+<marquee scollamount="10"direction="right"onmouseover="this.stop()">YOU ARE 
+INVITED </marquee><br> 
+<h3 style="color:rgb(42, 61, 149)"> S B JAIN COLLAGE is pleased     to invite you to the inauguration     of our WEB DEVELOPMENT LAB</h3> 
+<h3 style="color:rgb(30, 36, 151)">The inauguration will take place      on [18 may ] at     nagpur</h3> 
+     
+<h3 style="color:rgb(18, 20, 126)">    We will welcome you to     at  sb jain collage</h3> 
+<center><h1 style="color:rgb(85, 255, 0)">WE HAVE HONR TO WELCOME YOU</h1></center> 
+<hr> 
+<h2>cheif guest of program</h2> 
+<h2></h1> 
+<ol type="1"><li>Sanjay Badjate</li></h2> 
+ <h2></h1> 
+ <ol type="2"><li>  Yogesh Shinde</li></h2> 
+ <marquee scollamount=40"direction="right"onmouseover="this.stop()">PLEASE COME TO PROGRAM</marquee><br> 
+  
+</body></html>
